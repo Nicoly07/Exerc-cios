@@ -1,6 +1,7 @@
 function ex7() {
     principal7() 
 }
+// função testada
 function principal7() {
     var soma = 0
     var contador = 0
